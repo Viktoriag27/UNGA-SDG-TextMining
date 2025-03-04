@@ -22,4 +22,9 @@ This project analyzes UNGA speeches to track the representation of key global is
 ## Notes
 - Ensure all required files (`sdg_key.csv` and `UNGDC_1946-2023.csv`) are placed in the same directory as the notebooks.
 
+## Authors  
+- **Anastasiia Chernavskaia** (anastasiia.chernavskaia@bse.eu)  
+- **Marvin Ernst** (marvin.ernst@bse.eu)  
+- **Viktoria Gagua** (viktoria.gagua@bse.eu)
+
 Happy analyzing! :)
